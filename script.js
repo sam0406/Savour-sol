@@ -2,26 +2,26 @@ const menu = [
   {
     category: "Starters",
     items: [
-      ["Molten Lava Cheese Bomb", "Crispy shell bursting with gooey, rich melted cheese inside.", "349.00"],
+      ["Molten Lava Cheese Bomb", "Crispy shell bursting with gooey, rich melted cheese inside.", "449.00"],
       [
         "The Chimichanga Crunch",
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
-        "499.00 / 549.00",
+        "649.00 / 649.00",
       ],
-      ["Firestarter Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "399.00"],
-      ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "399.00"],
-      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "399.00"],
+      ["Firestarter Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "499.00"],
+      ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "449.00"],
+      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "349.00"],
     ],
   },
   {
     category: "Sharing Plates",
     items: [
-      ["Spiced Lamb Morsels", "Tender slow-spiced minced lamb skewers with smoky, aromatic char.", "649.00"],
-      ["Garden Lasagna Bites", "Bite-sized lasagna layered with earthy mushroom, corn and fresh spinach.", "499.00"],
+      ["Spiced Lamb Kebab Bites", "Tender slow-spiced minced lamb skewers with smoky, aromatic char.", "649.00"],
+      ["Garden Lasagna Bites", "Bite-sized lasagna layered with earthy mushroom, corn and fresh spinach.", "599.00"],
       [
-        "Arepa Street Sliders",
-        "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
-        "499.00 / 549.00",
+        "Wood fired bread sandwich",
+        "(Chicken Parmigiana / Truffle Mushroom and Mac) Fresh Woodfired Bread stuffed with choice of filling .",
+        "549.00 / 649.00",
       ],
       [
         "Crispy Tostada Stack",
