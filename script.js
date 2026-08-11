@@ -214,23 +214,23 @@ const resultCount = document.querySelector("#resultCount");
 let activeCategory = "All";
 
 const categoryIcons = {
-  All: "*",
-  Starters: "ST",
+  "All": "*",
+  "Starters": "ST",
   "Sharing Plates": "SP",
   "Taco Bar": "TC",
   "Dippable Sliders": "SL",
   "Mac & Cheese Bar": "MC",
   "Large Plates": "LP",
-  Pasta: "PA",
+  "Pasta": "PA",
   "Pizza Bun Burger": "PB",
-  Pizza: "PZ",
-  Quesadillas: "QS",
+  "Pizza": "PZ",
+  "Quesadillas": "QS",
   "Burrito Bowl": "BB",
-  Shakes: "SH",
-  Beverage: "BV",
-  Coffee: "CF",
-  Dessert: "DS",
-  Sheesha: "SS",
+  "Shakes": "SH",
+  "Beverage": "BV",
+  "Coffee": "CF",
+  "Dessert": "DS",
+  "Sheesha": "SS",
 };
 
 function formatPrice(price) {
