@@ -214,9 +214,9 @@ const resultCount = document.querySelector("#resultCount");
 let activeCategory = "All";
 
 const categoryIcons = {
-  "All": "*",
-  Starters: "ST",
-  "Sharing Plates": "SP",
+  "All": *,
+  "Starters": ST,
+  "Sharing Plates": SP,
   "Taco Bar": "TC",
   "Dippable Sliders": "SL",
   "Mac & Cheese Bar": "MC",
