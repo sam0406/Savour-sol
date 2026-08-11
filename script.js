@@ -215,7 +215,7 @@ let activeCategory = "All";
 
 const categoryIcons = {
   "All": "*",
-  "Starters": "ST",
+  Starters: "ST",
   "Sharing Plates": "SP",
   "Taco Bar": "TC",
   "Dippable Sliders": "SL",
