@@ -6,7 +6,7 @@ const menu = [
       [
         "The Chimichanga Crunch",
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
-        "649.00 / 649.00",
+        "549.00 / 649.00",
       ],
       ["Firestarter Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "499.00"],
       ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "449.00"],
@@ -26,39 +26,38 @@ const menu = [
       [
         "Crispy Tostada Stack",
         "(Chicken / Truffle Mushroom / Veg Fiesta) Crunchy tostada piled with vibrant toppings and zesty lime crema.",
-        "399.00",
+        "499.00 / 449 ",
       ],
     ],
   },
   {
     category: "Taco Bar",
     items: [
-      ["Pacific Gold Taco", "Beer-battered golden fish with slaw, chipotle mayo and fresh lime.", "549.00"],
-      ["Smoky Asado Taco (Chicken)", "Char-grilled marinated chicken with smoky asado spices and fresh pico.", "499.00"],
+      ["Pacific Fish Taco", "Beer-battered golden fish with slaw, chipotle mayo and fresh lime.", "599.00"],
+      ["Smoky Asado Taco (Chicken)", "Char-grilled marinated chicken with smoky asado spices and fresh pico.", "549.00"],
       ["Smoky Asado Taco (Mushroom)", "Flame-kissed mushrooms in asado marinade with salsa verde and cream.", "549.00"],
-      ["Birria Dip Taco (Lamb)", "Slow-braised lamb birria taco served with rich consommé for dipping.", "549.00"],
-      ["Baja Sunset Taco", "Plump prawns with Baja spice, tangy slaw and zesty citrus drizzle.", "549.00"],
+      ["Birria Dip Taco (Lamb)", "Slow-braised lamb birria taco served with rich consommé for dipping.", "599.00"],
+      ["Baja Prawn Taco", "Plump prawns with Baja spice, tangy slaw and zesty citrus drizzle.", "599.00"],
     ],
   },
   {
     category: "Dippable Sliders",
     items: [
-      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "399.00"],
+      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "449.00"],
       ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "499.00"],
-      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "399.00"],
-      ["Dark & Smoky Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "349.00"],
-      ["Crunch & Glory Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "399.00"],
+      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "449.00"],
+      ["Dark & Smoky Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "399.00"],
+      ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "449.00"],
     ],
   },
   {
     category: "Mac & Cheese Bar",
     items: [
       ["Four Cheese Indulgence Mac", "Creamy blend of four melted Italian cheeses in silky pasta perfection.", "499.00"],
-      ["Blaze Mac (Chicken)", "Fiery habanero-spiced chicken folded into ultra-creamy cheese mac.", "499.00"],
-      ["Pizza Mac Mashup", "Cheesy mac meets pepperoni pizza with oregano and marinara swirl.", "499.00"],
-      ["Birria Mac (Lamb)", "Rich braised birria lamb stirred through velvety three-cheese macaroni.", "549.00"],
-      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "499.00"],
-      ["Garlic Swirl Mac", "Roasted garlic pinwheel pasta tossed in herb-infused cream cheese sauce.", "499.00"],
+      ["Blaze Mac (Chicken)", "Fiery habanero-spiced chicken folded into ultra-creamy cheese mac.", "549.00"],
+      ["Pizza Mac Mashup", "Cheesy mac meets pepperoni pizza with oregano and marinara swirl.", "549.00 / 549"],
+      ["Birria Mac (Lamb)", "Rich braised birria lamb stirred through velvety three-cheese macaroni.", "599.00"],
+      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "549.00"]
     ],
   },
   {
