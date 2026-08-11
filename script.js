@@ -213,25 +213,7 @@ const resultCount = document.querySelector("#resultCount");
 
 let activeCategory = "All";
 
-const categoryIcons = {
-  "All": "*",
-  Starters: "ST",
-  "Sharing Plates": "SP",
-  "Taco Bar": "TC",
-  "Dippable Sliders": "SL",
-  "Mac & Cheese Bar": "MC",
-  "Large Plates": "LP",
-  "Pasta": "PA",
-  "Pizza": "PZ",
-  "Quesadillas": "QS",
-  "Burrito Bowl": "BB",
-  "Mocktails": "MK",
-  "Shakes": "SH",
-  "Beverage": "BV",
-  "Coffee": "CF",
-  "Dessert": "DS",
-  "Sheesha": "SS",
-};
+
 
 function formatPrice(price) {
   return `₹${price}`;
@@ -264,11 +246,14 @@ function getFilteredMenu() {
 
 function renderCategories() {
   const categories = ["All", ...menu.map((section) => section.category)];
+
   categoryChips.innerHTML = categories
     .map(
       (category) => `
-        <button class="chip ${category === activeCategory ? "active" : ""}" data-category="${category}">
-          <span class="chip-icon" aria-hidden="true">${categoryIcons[category] || "-"}</span>
+        <button
+          class="chip ${category === activeCategory ? "active" : ""}"
+          data-category="${category}"
+        >
           <span>${category}</span>
         </button>
       `
