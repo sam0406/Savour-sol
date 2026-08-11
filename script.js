@@ -67,7 +67,7 @@ const menu = [
       ["Golden Parmi (Chicken)", "Pan-fried chicken breast in rich tomato sauce, topped with bubbling mozzarella.", "699.00"],
       ["Seaside Classic", "Beer-battered fresh fish with golden hand-cut chips and tartare sauce.", "649.00"],
       ["Chicken Lasagna", "Pan-seared chicken breast simmered in rich tomato sauced layered with cheese.", "699.00"],
-      ["Chicken Stroganoff", "Tender chicken strips in rich sour cream, paprika and mushroom sauce.", 649.00"],
+      ["Chicken Stroganoff", "Tender chicken strips in rich sour cream, paprika and mushroom sauce.", "649.00"],
       ["Forest Stroganoff", "Wild mushrooms simmered in velvety sour cream and smoked paprika sauce.", "599.00"],
       ["Eggplant Parmigiana", "Slow-roasted eggplant and cottage cheese layered with tomato ragù and golden melted cheese.", "549.00"],
       ["Truffle Cloud Gnocchi", "Pillowy potato gnocchi bathed in truffle cream with sautéed wild mushrooms.", "599.00"],
