@@ -122,7 +122,6 @@ const menu = [
       ["Chocolate Crave", "Rich, creamy chocolate shake for every chocolate lover.", "349.00"],
       ["Oreo Overload", "A thick Oreo shake loaded with crunchy cookie goodness.", "349.00"],
       ["Caramel Indulgence", "Silky caramel shake finished with a buttery caramel drizzle.", "349.00"],
-      ["Caramel Indulgence", "Silky caramel shake finished with a buttery caramel drizzle.", "349.00"],
     ],
   },
   {
