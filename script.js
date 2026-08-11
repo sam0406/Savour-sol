@@ -63,17 +63,16 @@ const menu = [
   {
     category: "Large Plates",
     items: [
-      ["Adobo Soul Bowl", "Tender adobo-marinated chicken on fragrant cilantro lime rice.", "549.00"],
-      ["Golden Parmi (Chicken)", "Pan-fried chicken breast in rich tomato sauce, topped with bubbling mozzarella.", "649.00"],
+      ["Adobo Soul Bowl", "Tender adobo-marinated chicken on fragrant cilantro lime rice.", "599.00"],
+      ["Golden Parmi (Chicken)", "Pan-fried chicken breast in rich tomato sauce, topped with bubbling mozzarella.", "699.00"],
       ["Seaside Classic", "Beer-battered fresh fish with golden hand-cut chips and tartare sauce.", "649.00"],
-      ["Butter-Heart Kiev", "Pan-seared chicken breast with a molten garlic herb butter centre.", "699.00"],
-      ["Pollo Stroganoff", "Tender chicken strips in rich sour cream, paprika and mushroom sauce.", "599.00"],
-      ["Forest Stroganoff", "Wild mushrooms simmered in velvety sour cream and smoked paprika sauce.", "549.00"],
-      ["Melanzane Royale", "Slow-roasted eggplant layered with tomato ragù and golden melted cheese.", "549.00"],
+      ["Chicken Lasagna", "Pan-seared chicken breast simmered in rich tomato sauced layered with cheese.", "699.00"],
+      ["Chicken Stroganoff", "Tender chicken strips in rich sour cream, paprika and mushroom sauce.", 649.00"],
+      ["Forest Stroganoff", "Wild mushrooms simmered in velvety sour cream and smoked paprika sauce.", "599.00"],
+      ["Eggplant Parmigiana", "Slow-roasted eggplant and cottage cheese layered with tomato ragù and golden melted cheese.", "549.00"],
       ["Truffle Cloud Gnocchi", "Pillowy potato gnocchi bathed in truffle cream with sautéed wild mushrooms.", "599.00"],
-      ["Fire & Citrus Asada (Chicken)", "Citrus-marinated grilled chicken with charred asada spice and chimichurri.", "549.00"],
-      ["Fire & Citrus Asada (Mutton)", "Bold grilled mutton in tangy asada marinade with smoky chimichurri sauce.", "799.00"],
-      ["Slow & Rich Lamb Lasagna", "Layers of braised lamb ragù, béchamel and pasta baked to bubbling perfection.", "749.00"],
+      ["Pollo Asada", "Citrus-marinated grilled chicken with charred asada spice and chimichurri.", "599.00"],
+      ["Carne Asada", "Bold grilled mutton in tangy asada marinade with smoky chimichurri sauce.", "799.00"],
     ],
   },
   {
@@ -82,26 +81,20 @@ const menu = [
       [
         "Creamy Alfredo Pasta",
         "(Chicken / Veg) Pasta in a rich Parmesan cream sauce with your choice of vegetables or chicken.",
-        "549/499",
+        "599/549",
       ],
-      ["Fiery Arrabbiata", "(Chicken / Veg) Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "549/499"],
-      ["Rosé Cream Pasta", "(Chicken / Veg) Pasta in a creamy tomato sauce with your choice of vegetables or chicken.", "549/499"],
+      ["Fiery Arrabbiata", "(Chicken / Veg) Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "599/549"],
+      ["Rosé Cream Pasta", "(Chicken / Veg) Pasta in a creamy tomato sauce with your choice of vegetables or chicken.", "599/549"],
     ],
   },
-  {
-    category: "Pizza Bun Burger",
-    items: [
-      ["Truffle Mushroom & Exotic Veg", "Loaded with truffle mushrooms, exotic vegetables, and melted cheese in a toasted pizza bun.", "499.00"],
-      ["Chicken Parmigiana", "Crispy chicken, rich marinara, and melted Parmesan cheese served in a toasted pizza bun.", "599.00"],
-    ],
-  },
+  
   {
     category: "Pizza",
     items: [
-      ["La Bella Margherita", "Classic San Marzano tomato, fresh mozzarella and fragrant basil on crisp base.", "399.00"],
-      ["Hot Bird Pizza", "Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "499.00"],
-      ["The Pepperoni Royale", "Double-loaded pepperoni with stretchy mozzarella on a crispy thin crust.", "499.00"],
-      ["Garden Bloom Pizza", "Seasonal garden vegetables with herb pesto and creamy white sauce base.", "399.00"],
+      ["La Bella Margherita", "Classic San Marzano tomato, fresh mozzarella and fragrant basil on crisp base.", "499.00"],
+      ["Hot Bird Pizza", "Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "599.00"],
+      ["The Pepperoni Royale", "Double-loaded pepperoni, jalapenos  with stretchy mozzarella on sourdough base.", "649.00"],
+      ["Garden Bloom Pizza", "Seasonal garden vegetables with herb pesto and creamy white sauce base.", "549.00"],
     ],
   },
   {
@@ -109,8 +102,8 @@ const menu = [
     items: [
       ["Garden Melt Quesadilla", "Colourful seasonal veggies and melted cheese in a toasted flour tortilla.", "499.00"],
       ["Black Truffle Melt", "Wild mushrooms and truffle oil sealed in a golden, cheese-filled quesadilla.", "549.00"],
-      ["Creamy Dreamy Chicken Melt", "Shredded chicken in herby cream cheese, grilled to golden perfection.", "579.00"],
-      ["Paprika Bliss Quesadilla", "Smoky paprika chicken with peppers and melted cheese in a crisp wrap.", "579.00"],
+      ["Creamy Dreamy Chicken Melt", "Shredded chicken in herby cream cheese, grilled to golden perfection.", "599.00"],
+      ["Paprika Bliss Quesadilla", "Smoky paprika chicken with peppers and melted cheese in a crisp wrap.", "599.00"],
     ],
   },
   {
