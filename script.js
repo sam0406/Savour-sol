@@ -8,7 +8,7 @@ const menu = [
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
         "549.00 / 649.00",
       ],
-      ["Firestarter Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "499.00"],
+      ["Habanero Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "499.00"],
       ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "449.00"],
       ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "349.00"],
     ],
