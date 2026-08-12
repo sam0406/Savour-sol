@@ -181,25 +181,21 @@ const menu = [
         items: [
           "PMC",
           "RPG",
-          "Sun Downer",
+          "Orange Paan Mint",
           "Commisioner",
-          "Sea breezer",
-          "Bmw",
+          "Sea breeze",
+          "Mango Paan",
           "Ice crush",
           "Rajni gandha",
-          "Chocolate/cold coffee",
-          "Crown flavour",
+          "Gold Mint",
           "Zafran",
-          "Nawab",
         ],
       },
-      {
-        title: "SPECIAL",
-        items: ["Brain freezer", "Pan Kiwi Mint", "Grape Mint"],
-      },
+
+      
       {
         title: "TURKISH",
-        items: ["Double melon", "Love 66", "Mardella", "Lady killer", "Shake money"],
+        items: ["Double melon", "Love 66", "Marbella", "Lady killer"],
       },
     ],
   },
