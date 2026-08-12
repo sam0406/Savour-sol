@@ -308,7 +308,7 @@ function renderMenu() {
                     `
                   )
                   .join("")}
-                <p class="gst-note">GST will be charged extra as applicable.</p>
+                <p class="gst-note">Taxes will be charged as applicable.</p>
               </article>
             `
             : `
