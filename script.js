@@ -198,7 +198,7 @@ const menu = [
       
       {
         title: "TURKISH",
-        items: ["Double melon", "Love 66", "Marbella", "Lady killer"],
+        items: ["Love 66", "Marbella", "Lady killer"],
       },
     ],
   },
