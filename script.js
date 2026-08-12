@@ -192,6 +192,7 @@ const menu = [
           "Paan Kiwi Mint",
           "Black Magic",
           "Brainfreezer",
+          "PMS",
         ],
       },
 
