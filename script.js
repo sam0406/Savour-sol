@@ -26,7 +26,7 @@ const menu = [
       [
         "Crispy Tostada",
         "(Chicken / Truffle Mushroom / Veg Fiesta) Crunchy tostada piled with vibrant toppings and zesty lime crema.",
-        "499.00 / 449 ",
+        "499.00 / 449.00 ",
       ],
     ],
   },
