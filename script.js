@@ -46,7 +46,7 @@ const menu = [
       ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "449.00"],
       ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "499.00"],
       ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "449.00"],
-      ["Dark & Smoky Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "399.00"],
+      ["Black Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "399.00"],
       ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "449.00"],
     ],
   },
@@ -81,10 +81,10 @@ const menu = [
       [
         "Creamy Alfredo Pasta",
         "(Chicken / Veg) Pasta in a rich Parmesan cream sauce with your choice of vegetables or chicken.",
-        "599/549",
+        "599.00 / 549.00",
       ],
-      ["Fiery Arrabbiata", "(Chicken / Veg) Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "599/549"],
-      ["Rosé Cream Pasta", "(Chicken / Veg) Pasta in a creamy tomato sauce with your choice of vegetables or chicken.", "599/549"],
+      ["Fiery Arrabbiata", "(Chicken / Veg) Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "599.00 /549.00 "],
+      ["Rosé Cream Pasta", "(Chicken / Veg) Pasta in a creamy tomato sauce with your choice of vegetables or chicken.", "599.00 / 549.00"],
     ],
   },
   
