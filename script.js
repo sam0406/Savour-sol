@@ -189,6 +189,9 @@ const menu = [
           "Rajni gandha",
           "Gold Mint",
           "Zafran",
+          "Paan Kiwi Mint",
+          "Black Magic",
+          "Brainfreezer",
         ],
       },
 
