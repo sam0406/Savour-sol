@@ -338,10 +338,15 @@ a {
   overflow: hidden;
   padding: 24px 18px 30px;
   border: 1px solid rgba(255, 235, 214, 0.18);
+
   background:
-    linear-gradient(180deg, rgba(86, 27, 17, 0.9), rgba(65, 20, 13, 0.94)),
-    radial-gradient(circle at 50% 0%, rgba(255, 193, 92, 0.08), transparent 18rem),
-    url("images/menu-pattern.svg") center/cover no-repeat;
+    linear-gradient(
+      180deg,
+      rgba(157, 104, 109, 0.88),
+      rgba(122, 63, 70, 0.90)
+    ),
+    url("images/hookahplain.svg") center/cover no-repeat;
+
   color: #fff3ea;
 }
 
