@@ -139,10 +139,10 @@ const menu = [
 {
     category: "Beverage",
     items: [
-      ["Coke/Diet Coke", "", "150.00"],
-      ["Red Bull", "", "240.00"],
-      ["Tonic Water", "", "150.00"],
-      ["Ginger Ale", "", "150.00"],
+      ["Coke/Diet Coke", "", "149.00"],
+      ["Red Bull", "", "249.00"],
+      ["Tonic Water", "", "149.00"],
+      ["Ginger Ale", "", "149.00"],
       ["Bottled Water", "", "99.00"],
     ],
   },
