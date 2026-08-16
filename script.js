@@ -92,10 +92,10 @@ const menu = [
   {
     category: "Pizza",
     items: [
-      ["La Bella Margherita", "Classic San Marzano tomato, fresh mozzarella and fragrant basil on crisp base.", "499.00"],
+      ["La Bella Margherita", "Classic San Marzano tomato, fresh mozzarella and fragrant basil on crisp base.", "549.00"],
+      ["Garden Bloom Pizza", "Seasonal garden vegetables with herb pesto and creamy white sauce base.", "599.00"],
       ["Hot Bird Pizza", "Spiced chicken, roasted peppers and chilli flakes on tangy tomato base.", "599.00"],
       ["The Pepperoni Royale", "Double-loaded pepperoni, jalapenos  with stretchy mozzarella on sourdough base.", "649.00"],
-      ["Garden Bloom Pizza", "Seasonal garden vegetables with herb pesto and creamy white sauce base.", "549.00"],
     ],
   },
   {
