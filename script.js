@@ -128,6 +128,7 @@ const menu = [
   {
     category: "Mocktails",
     items: [
+      ["Berry Blast", "Crisp cranberry flavor, zingy lime and strawberry crush.", "299.00"],
       ["Passion Basil Kiss", "Tangy passion fruit muddled with fresh basil and sparkling citrus water.", "299.00"],
       ["Mint Mojito", "Fresh lime, crushed mint and soda over ice - clean, cool and refreshing.", "299.00"],
       ["Cranberry Bloom", "Cranberry and lychee blend with a soft floral finish.", "299.00"],
