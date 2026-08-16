@@ -112,8 +112,8 @@ const menu = [
     items: [
       ["Earthy Harvest Bowl", "Seasoned mushrooms with rice, beans, salsa and lime-spiked sour cream.", "599.00"],
       ["Spiced Paneer Bowl", "Grilled paneer on cumin rice with roasted peppers, guac and fresh pico.", "649.00"],
-      ["Warrior Chicken Bowl", "Grilled spiced chicken with cilantro rice, black beans, corn and chipotle crema.", "649.00"],
-      ["Birria Fiesta Bowl", "Slow-braised birria lamb with rice, consommé broth and vibrant toppings.", "699.00"],
+      ["Warrior Chicken Bowl", "Grilled spiced chicken with cilantro rice, black beans, corn and chipotle crema.", "699.00"],
+      ["Birria Fiesta Bowl", "Slow-braised birria lamb with rice, consommé broth and vibrant toppings.", "749.00"],
     ],
   },
   {
