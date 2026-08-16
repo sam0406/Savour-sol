@@ -32,6 +32,36 @@ body {
   overflow-x: hidden;
 }
 
+
+.food-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 11px;
+  height: 11px;
+  margin-right: 7px;
+  border: 1.5px solid currentColor;
+  vertical-align: middle;
+}
+
+.food-dot::after {
+  content: "";
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.food-dot.veg {
+  color: #3f9b4f;
+}
+
+.food-dot.nonveg {
+  color: #c94040;
+}
+
+
+
 a {
   color: inherit;
   text-decoration: none;
