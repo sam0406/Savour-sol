@@ -10,7 +10,7 @@ const menu = [
       ],
       ["Habanero Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "499.00"],
       ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "449.00"],
-      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "349.00"],
+      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "399.00"],
     ],
   },
   {
