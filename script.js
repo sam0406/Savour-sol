@@ -55,7 +55,7 @@ const menu = [
     category: "Mac & Cheese Bar",
     items: [
       ["Four Cheese Indulgence Mac", "Creamy blend of four melted Italian cheeses in silky pasta perfection.", "549.00"],
-      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "599.00"]
+      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "599.00"],
       ["Blaze Mac (Chicken)", "Fiery habanero-spiced chicken folded into ultra-creamy cheese mac.", "599.00"],
       ["Pizza Mac Mashup", "Cheesy mac meets pepperoni/Garden fresh vegetables , tomato sauce with oregano and marinara swirl.", "549.00 / 599.00"],
       ["Birria Mac (Lamb)", "Rich braised birria lamb stirred through velvety three-cheese macaroni.", "649.00"],
