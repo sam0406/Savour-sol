@@ -43,11 +43,12 @@ const menu = [
   {
     category: "Dippable Sliders",
     items: [
-      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "449.00"],
-      ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "499.00"],
-      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "449.00"],
-      ["Black Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "399.00"],
-      ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "449.00"],
+      ["Black Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "499.00"],
+      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "549.00"],
+      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "549.00"],
+      ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "549.00"],
+      ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "649.00"],
+     
     ],
   },
   {
