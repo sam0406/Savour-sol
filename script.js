@@ -106,13 +106,14 @@ const menu = [
     ],
   },
 
-{
+  {
     category: "Mexican Pides",
     items: [
       ["The classic Veg Pide", "Exotic vegetables on a sourdough flatbread topped off with guacamole , fresh tangy salsa , queso and sour cream", "599.00" , "veg"],
       ["Truffle Mushroom Pide", "Mushrooms cooked in herbs , topped off wuth truffle oil and mexican toppings. -- Fresh and Umami", "649.00" , "veg"],
       ["Paprika Pollo Pide", "Spiced fajita chicken, red paprika with mexican toppings . Ultimately soulful", "699.00", "nonveg"],
   },
+
   
   {
     category: "Quesadillas",
