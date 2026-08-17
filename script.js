@@ -7,9 +7,9 @@ const menu = [
         "The Chimichanga Crunch",
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
         "549.00 / 649.00", "mixed" ],
-      ["Habanero Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "549.00"],
-      ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "499.00"],
-      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "399.00"],
+      ["Habanero Chicken Bites", "Juicy chicken ignited with smoky habanero chilli and bold spices.", "549.00" , "nonveg"],
+      ["Nacho Royale", "Towering crispy nachos crowned with salsas, cheese and fresh toppings.", "499.00" , "veg"],
+      ["Wood Fired Garlic Bread", "Artisan bread kissed by woodfire, slathered in roasted garlic butter.", "399.00" , "veg"],
     ],
   },
   {
