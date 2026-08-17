@@ -15,27 +15,25 @@ const menu = [
   {
     category: "Sharing Plates",
     items: [
-      ["Spiced Lamb Kebab Bites", "Tender slow-spiced minced lamb skewers with smoky, aromatic char.", "649.00"],
-      ["Garden Lasagna Bites", "Bite-sized lasagna layered with earthy mushroom, corn and fresh spinach.", "599.00"],
+      ["Spiced Lamb Kebab Bites", "Tender slow-spiced minced lamb skewers with smoky, aromatic char.", "649.00" , "nonveg"],
+      ["Garden Lasagna Bites", "Bite-sized lasagna layered with earthy mushroom, corn and fresh spinach.", "599.00" , "veg"],
       [
         "Wood fired bread sandwich",
         "(Chicken Parmigiana / Truffle Mushroom and Mac) Fresh Woodfired Bread stuffed with choice of filling .",
-        "549.00 / 649.00",
-      ],
+        "549.00 / 649.00", "mixed" ],
       [
         "Crispy Tostada",
         "(Chicken / Truffle Mushroom / Veg Fiesta) Crunchy tostada piled with vibrant toppings and zesty lime crema.",
-        "499.00 / 449.00 ",
-      ],
+        "499.00 / 449.00 ", "mixed" ],
     ],
   },
 
   {
     category: "Fries",
     items: [
-      ["Classic Salted Fries", "Classic crispy thick cut salted fries", "349.00"],
-      ["Peri Peri Fries", "Thick cut fries tossed in house made peri peri served with cheesey dip", "399.00"],
-      ["Truffle Parmesan Fries", "BThick cut fries tossed in in house cheese seasoning and truffle oil opeed off with parmesan.", "449.00"],
+      ["Classic Salted Fries", "Classic crispy thick cut salted fries", "349.00" , "veg"],
+      ["Peri Peri Fries", "Thick cut fries tossed in house made peri peri served with cheesey dip", "399.00" , "veg"],
+      ["Truffle Parmesan Fries", "BThick cut fries tossed in in house cheese seasoning and truffle oil opeed off with parmesan.", "449.00" , "veg"],
       
     ],
   },
