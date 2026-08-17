@@ -303,6 +303,16 @@ function renderMenu() {
           section.category === "Sheesha"
             ? `
               <article class="category-section sheesha-section" data-category="${section.category}">
+                  <div class="sheesha-smoke" aria-hidden="true">
+                  <span class="smoke smoke-1"></span>
+                  <span class="smoke smoke-2"></span>
+                  <span class="smoke smoke-3"></span>
+                  <span class="smoke smoke-4"></span>
+                  <span class="smoke smoke-5"></span>
+              </div>
+
+  <p class="section-brand">SAVOUR SOL</p>
+  <h2 class="sheesha-title">SHEESHA</h2>
                 <p class="section-brand">SAVOUR SOL</p>
                 <h2 class="sheesha-title">SHEESHA</h2>
                 ${section.items
