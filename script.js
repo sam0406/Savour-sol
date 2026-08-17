@@ -30,6 +30,17 @@ const menu = [
       ],
     ],
   },
+
+  {
+    category: "Fries",
+    items: [
+      ["Classic Salted Fries", "Classic crispy thick cut salted fries", "349.00"],
+      ["Peri Peri Fries", "Thick cut fries tossed in house made peri peri served with cheesey dip", "399.00"],
+      ["Truffle Parmesan Fries", "BThick cut fries tossed in in house cheese seasoning and truffle oil opeed off with parmesan.", "449.00"],
+      
+    ],
+  },
+  
   {
     category: "Taco Bar",
     items: [
