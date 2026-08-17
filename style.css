@@ -60,6 +60,18 @@ body {
   color: #c94040;
 }
 
+.food-dot.mixed {
+  color: #c49a3a;
+}
+
+.food-dot.mixed::after {
+  background: linear-gradient(
+    90deg,
+    #3f9b4f 50%,
+    #c94040 50%
+  );
+}
+
 
 
 a {
