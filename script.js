@@ -2,7 +2,7 @@ const menu = [
   {
     category: "Starters",
     items: [
-      ["Molten Lava Cheese Bomb", "Crispy shell bursting with gooey, rich melted cheese inside.", "449.00"],
+      ["Molten Lava Cheese Bomb", "Crispy shell bursting with gooey, rich melted cheese inside.", "449.00" , "veg"],
       [
         "The Chimichanga Crunch",
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
@@ -331,9 +331,12 @@ function renderMenu() {
                 <div class="items">
                   ${section.items
                     .map(
-                      ([name, desc, price]) => `
+                      ([name, desc, price, type]) => `
                         <div class="menu-item">
-                          <h3 class="item-name">${name}</h3>
+                          <h3 class="item-name">
+                              <span class="food-dot ${type}" aria-hidden="true"></span>
+                              ${name}
+                          </h3>
                           ${desc ? `<p class="item-desc">${desc}</p>` : ""}
                           <div class="price">${formatPrice(price)}</div>
                         </div>
