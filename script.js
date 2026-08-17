@@ -311,8 +311,6 @@ function renderMenu() {
                   <span class="smoke smoke-5"></span>
               </div>
 
-  <p class="section-brand">SAVOUR SOL</p>
-  <h2 class="sheesha-title">SHEESHA</h2>
                 <p class="section-brand">SAVOUR SOL</p>
                 <h2 class="sheesha-title">SHEESHA</h2>
                 ${section.items
