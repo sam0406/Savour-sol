@@ -91,11 +91,13 @@ body {
 }
 
 .food-dot.mixed {
-  color: #ffd35a;
+  color: #fff3e6;
+
+  border-color: #fff3e6;
 
   box-shadow:
-    0 0 6px rgba(255, 211, 90, 0.65),
-    0 0 12px rgba(255, 211, 90, 0.25);
+    0 0 6px rgba(255, 243, 230, 0.55),
+    0 0 12px rgba(255, 243, 230, 0.2);
 }
 
 .food-dot.mixed::after {
@@ -106,6 +108,10 @@ body {
     #ff4d4d 50%,
     #ff4d4d 100%
   );
+
+  box-shadow:
+    0 0 4px rgba(255, 255, 255, 0.35);
+}
 }
 
 
