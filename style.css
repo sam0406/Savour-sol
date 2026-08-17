@@ -44,31 +44,67 @@ body {
   vertical-align: middle;
 }
 
+.food-dot {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 15px;
+  height: 15px;
+
+  margin-right: 8px;
+
+  border: 2px solid currentColor;
+  border-radius: 2px;
+
+  vertical-align: -2px;
+  flex: 0 0 15px;
+
+  background: rgba(255, 255, 255, 0.06);
+
+  box-shadow:
+    0 0 5px currentColor,
+    0 0 10px rgba(255, 255, 255, 0.08);
+}
+
 .food-dot::after {
   content: "";
-  width: 5px;
-  height: 5px;
+  display: block;
+
+  width: 7px;
+  height: 7px;
+
   border-radius: 50%;
+
   background: currentColor;
+
+  box-shadow:
+    0 0 4px currentColor;
 }
 
 .food-dot.veg {
-  color: #3f9b4f;
+  color: #48d267;
 }
 
 .food-dot.nonveg {
-  color: #c94040;
+  color: #ff4d4d;
 }
 
 .food-dot.mixed {
-  color: #c49a3a;
+  color: #ffd35a;
+
+  box-shadow:
+    0 0 6px rgba(255, 211, 90, 0.65),
+    0 0 12px rgba(255, 211, 90, 0.25);
 }
 
 .food-dot.mixed::after {
   background: linear-gradient(
     90deg,
-    #3f9b4f 50%,
-    #c94040 50%
+    #48d267 0%,
+    #48d267 50%,
+    #ff4d4d 50%,
+    #ff4d4d 100%
   );
 }
 
