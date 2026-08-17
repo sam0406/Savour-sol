@@ -41,11 +41,11 @@ const menu = [
   {
     category: "Taco Bar",
     items: [
-      ["Smoky Asado Taco (Chicken)", "Char-grilled marinated chicken with smoky asado spices and fresh pico.", "549.00"],
-      ["Smoky Asado Taco (Mushroom)", "Flame-kissed mushrooms in asado marinade with salsa verde and cream.", "549.00"],
-      ["Pacific Fish Taco", "Beer-battered golden fish with slaw, chipotle mayo and fresh lime.", "599.00"],
-      ["Birria Dip Taco (Lamb)", "Slow-braised lamb birria taco served with rich consommé for dipping.", "649.00"],
-      ["Baja Prawn Taco", "Plump prawns with Baja spice, tangy slaw and zesty citrus drizzle.", "649.00"],
+      ["Smoky Asado Taco (Chicken)", "Char-grilled marinated chicken with smoky asado spices and fresh pico.", "549.00" , "nonveg"],
+      ["Smoky Asado Taco (Mushroom)", "Flame-kissed mushrooms in asado marinade with salsa verde and cream.", "549.00" , "veg"],
+      ["Pacific Fish Taco", "Beer-battered golden fish with slaw, chipotle mayo and fresh lime.", "599.00" , "nonveg"],
+      ["Birria Dip Taco (Lamb)", "Slow-braised lamb birria taco served with rich consommé for dipping.", "649.00" , "nonveg"],
+      ["Baja Prawn Taco", "Plump prawns with Baja spice, tangy slaw and zesty citrus drizzle.", "649.00" ,"nonveg"],
     ],
   },
   {
