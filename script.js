@@ -51,22 +51,22 @@ const menu = [
   {
     category: "Dippable Sliders",
     items: [
-      ["Black Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "499.00"],
-      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "549.00"],
-      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "549.00"],
-      ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "549.00"],
-      ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "649.00"],
+      ["Black Bean Sliders", "Hearty spiced black bean patty with avocado crema and pickled jalapeño.", "499.00" , "veg"],
+      ["Black Truffle Mushroom Sliders", "Earthy mushroom patty drizzled with luxurious black truffle aioli.", "549.00" , "veg"],
+      ["Street-Smash Chicken Sliders", "Crispy smashed chicken patty with pickles and signature house sauce.", "549.00" , "nonveg"],
+      ["Habanero Chicken Sliders", "Buttermilk-fried crispy chicken with honey sriracha and cool coleslaw.", "549.00" , "nonveg"],
+      ["Birria Melt Sliders (Mutton)", "Slow-cooked birria mutton piled high in a butter-toasted brioche bun.", "649.00" , "nonveg"],
      
     ],
   },
   {
     category: "Mac & Cheese Bar",
     items: [
-      ["Four Cheese Indulgence Mac", "Creamy blend of four melted Italian cheeses in silky pasta perfection.", "549.00"],
-      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "599.00"],
-      ["Blaze Mac (Chicken)", "Fiery habanero-spiced chicken folded into ultra-creamy cheese mac.", "599.00"],
-      ["Pizza Mac Mashup", "Cheesy mac meets pepperoni/Garden fresh vegetables , tomato sauce with oregano and marinara swirl.", "549.00 / 599.00"],
-      ["Birria Mac (Lamb)", "Rich braised birria lamb stirred through velvety three-cheese macaroni.", "649.00"],
+      ["Four Cheese Indulgence Mac", "Creamy blend of four melted Italian cheeses in silky pasta perfection.", "549.00" , "veg"],
+      ["Hot Mushroom Mac", "Sautéed mushrooms and sliced jalapeños in a bold, spicy cheese sauce.", "599.00" , "veg"],
+      ["Blaze Mac (Chicken)", "Fiery habanero-spiced chicken folded into ultra-creamy cheese mac.", "599.00" , "nonveg"],
+      ["Pizza Mac Mashup", "Cheesy mac meets pepperoni/Garden fresh vegetables , tomato sauce with oregano and marinara swirl.", "549.00 / 599.00" , "mixed"],
+      ["Birria Mac (Lamb)", "Rich braised birria lamb stirred through velvety three-cheese macaroni.", "649.00" , "nonveg"],
     ],
   },
   {
