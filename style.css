@@ -510,13 +510,6 @@ a {
   z-index: 1;
 }
 
-.sheesha-smoke {
-  position: absolute;
-  inset: -20%;
-  z-index: 0;
-  overflow: hidden;
-  pointer-events: none;
-}
 
 .sheesha-title {
   margin: 16px 0 8px;
