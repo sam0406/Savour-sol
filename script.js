@@ -38,6 +38,14 @@ const menu = [
       
     ],
   },
+
+  {
+    category: "Chicken Crispers",
+    items: [
+      ["Coming soon", "coming soon", "549.00" , "nonveg"],
+      
+    ],
+  },
   
   {
     category: "Taco Bar",
