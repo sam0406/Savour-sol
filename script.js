@@ -42,7 +42,9 @@ const menu = [
   {
     category: "Chicken Crispers",
     items: [
-      ["Coming soon", "coming soon", "549.00" , "nonveg"],
+      ["Classic Peri Peri", "Buttermilk Marinated chicken strips in crispy coating and peri peri", "599.00" , "nonveg"],
+      ["Honey Chilli", "Honey , chillies and garlic marinated strips. --Flavor Bomb", "599.00" , "nonveg"],
+      ["Habanero Spice", "24 Hour habanero brine marinated chicken with a crisp coating", "599.00" , "nonveg"],
       
     ],
   },
