@@ -16,7 +16,7 @@ const menu = [
   {
     category: "Sharing Plates",
     items: [
-      ["Spiced Lamb Kebab Bites", "Tender slow-spiced minced lamb skewers with smoky, aromatic char.", "649.00" , "nonveg"],
+      ["Spiced Lamb Kebab Bites", "Tender slow-cooked layered minced lamb bites with smoky, aromatic char.", "649.00" , "nonveg"],
       ["Garden Lasagna Bites", "Bite-sized lasagna layered with earthy mushroom, corn and fresh spinach.", "599.00" , "veg"],
       [
         "Wood fired bread sandwich",
