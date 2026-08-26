@@ -384,7 +384,7 @@ a {
     rgba(157, 104, 109, 0.88),
     rgba(122, 63, 70, 0.90)
   ),
-  url("images/retroplain.svg") center/cover no-repeat;
+  url("images/foodfire.gif") center/cover no-repeat;
   box-shadow: var(--shadow);
   scroll-margin-top: 130px;
 }
