@@ -3,6 +3,8 @@ const menu = [
     category: "Starters",
     items: [
       ["Molten Lava Cheese Bomb", "Crispy shell bursting with gooey, rich melted cheese inside.", "449.00" , "veg"],
+      ["Rogani Paneer tikka", "Paneer marinated in whole spices and curd . chargrilled to perfection.", "499.00" , "veg"],
+      ["Masaledar Chicken Tikka", "24 Hours marinated chicken Slow roasted for the perfect bite.", "599.00" , "veg"],
       [
         "The Chimichanga Crunch",
         "(Spicy Chicken / Truffle Mushroom / Veg Fiesta) Golden deep-fried tortilla stuffed with savoury mushroom, veggie or chicken filling.",
